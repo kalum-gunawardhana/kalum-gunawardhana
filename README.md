@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kalum Gunawardhana
 
-🚀 Full Stack Software Engineer
+🚀 Full Stack Engineer
 
 ## 🛠️ Technologies & Tools
 
