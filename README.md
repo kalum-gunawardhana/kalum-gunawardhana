@@ -5,14 +5,6 @@
   ### 🚀 Software Engineer Full-Stack | AI & ML Enthusiast | Undergraduate BIT | Dip. in Software Engineering
   
   *"Building digital solutions that make a difference"*
-
-  <div align="center">
-  
- [![committers.top badge](https://user-badge.committers.top/sri_lanka/kalum-gunawardhana.svg)](https://user-badge.committers.top/sri_lanka/kalum-gunawardhana)
- [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](https://personal-portfollio-gamma.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kalum-gunawardhana/)
-
-</div>
   
   [![](https://visitcount.itsvg.in/api?id=kalum-gunawardhana&icon=0&color=0)](https://visitcount.itsvg.in)
   
@@ -63,7 +55,6 @@
 <div align="center">
 
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kalum-gunawardhana&theme=transparent&hide_border=false)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=kalum-gunawardhana&theme=transparent&hide_border=false&include_all_commits=false&count_private=true" height="170" alt="GitHub Stats" />  
   &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalum-gunawardhana&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="170" alt="GitHub Stats" />
