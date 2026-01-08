@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kalum Gunawardhana 👋 
   
-  ### 🚀 Full-Stack Software Engineer | AI & ML Enthusiast | Undergraduate BIT | Dip. in Software Engineering
+  ### 🚀 Full-Stack Software Engineer | AI & ML Enthusiast | Dip. in Software Engineering
   
   *"Building digital solutions that make a difference"*
   
