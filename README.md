@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kalum Gunawardhana 👋 
   
-  ### 🚀 Full-Stack Software Engineer | AI & ML Enthusiast | Dip. in Software Engineering
+  ### 🚀 Associate Software Engineer | UCSC
   
   *"Building digital solutions that make a difference"*
   
@@ -70,7 +70,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalum-gunawardhana/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kgunawardhana226@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalumgunawardhana25@gmail.com.com)
 
 </div>
 
