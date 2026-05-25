@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kalum Gunawardhana 👋 
   
-  ### 🚀 Associate Software Engineer | UCSC
+  ### 🚀 Associate Software Engineer | Founder & AI Engineer | Pearson BTEC HND AI
   
   *"Building digital solutions that make a difference"*
   
